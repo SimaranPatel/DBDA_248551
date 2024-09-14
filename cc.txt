@@ -1,0 +1,9 @@
+Cloud Computing
+In cloud computing there are three types of clouds:
+1)Public cloud
+2)Private cloud
+3)Community cloud
+There are three types of services
+1)Saas(Software as a service)
+2)Paas(Platform as a service)
+3)Iaas(Infrastructure as a service)
